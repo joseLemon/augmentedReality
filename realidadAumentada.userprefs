@@ -2,8 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Vuforia\Scripts\CustomTrackableEventHandler.cs">
     <Files>
-      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="73" Column="47" />
-      <File FileName="Assets\Vuforia\Scripts\CustomTrackableEventHandler.cs" Line="49" Column="26" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="54" Column="62" />
+      <File FileName="Assets\Vuforia\Scripts\CustomTrackableEventHandler.cs" Line="73" Column="3" />
+      <File FileName="Assets\Vuforia\Scripts\UIController.cs" Line="55" Column="3" />
+      <File FileName="..\infiniteRunner\Assets\Scripts\parallaxBackground.cs" Line="8" Column="23" />
+      <File FileName="..\infiniteRunner\Assets\Scripts\roomGenerator.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
